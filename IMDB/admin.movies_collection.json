@@ -1,0 +1,23 @@
+[{
+  "_id": "507f1f77bcf86cd799439011",
+  "title": "idhu enna mayam",
+  "description": "love story",
+  "release_date": "12-6-20",
+  "media": [
+    {
+      "type": "https://wallpaperaccess.com/idhu-enna-maayam",
+      "url": "https://wallpaperaccess.com/idhu-enna-maayam"
+    }
+  ],
+  "genres": [
+    "love,action"
+  ],
+  "reviews": [
+    {
+      "_id": "507f1f77bcf86cd799439011",
+      "user_id": "507f1f77bcf86cd79943901",
+      "rating": 9.1,
+      "comment": "entertaiment love movies"
+    }
+  ]
+}]
